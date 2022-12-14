@@ -21,7 +21,7 @@ const Home = () => {
         </Link>
       </div>
       <div className=" flex-1">
-        <img alt="Home.jpeg" className="bg-white" src="grocery1.png"></img>
+        <img alt="Home.jpeg" className="bg-white" src="grocery3.png"></img>
       </div>
     </div>
   );
